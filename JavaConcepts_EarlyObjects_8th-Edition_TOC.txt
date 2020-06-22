@@ -1,0 +1,288 @@
+TABLE OF CONTENTS
+Chapter 1: Introduction 
+
+1.1 Computer Programs   2
+
+1.2 The Anatomy of a Computer   3
+
+1.3 The Java Programming Language   6
+
+1.4 Becoming Familiar with Your Programming Environment   7
+
+1.5 Analyzing Your First Program   11
+
+1.6 Errors   14
+
+1.7 Problem Solving: Algorithm Design   15 
+
+Chapter 2: Using Objects
+
+2.1 Objects and Classes   32
+
+2.2 Variables   34
+
+2.3 Calling Methods   41
+
+2.4 Constructing Objects   46
+
+2.5 Accessor and Mutator Methods   48
+
+2.6 The API Documentation   50
+
+2.7T Implementing a Test Program   53
+
+2.8 Object References   55
+
+2.9G Graphical Applications   59
+
+2.10G Ellipses, Lines, Text, and Color   64 
+
+Chapter 3: Implementing Classes
+
+3.1 Instance Variables and Encapsulation   80
+
+3.2 Specifying the Public Interface of a Class   84
+
+3.3 Providing the Class Implementation   91
+
+3.4T Unit Testing   100
+
+3.5 Problem Solving: Tracing Objects   103
+
+3.6 Local Variables   105
+
+3.7 The this Reference   107
+
+3.8G Shape Classes   110 
+
+Chapter 4: Fundamental Data Types
+
+4.1 Numbers   130
+
+4.2 Arithmetic   137
+
+4.3 Input and Output   145
+
+4.4 Problem Solving: First Do It By Hand   152
+
+4.5 Strings   154 
+
+Chapter 5: Decisions
+
+5.1 The if Statement   178
+
+5.2 Comparing Values   183
+
+5.3 Multiple Alternatives   193
+
+5.4 Nested Branches   196
+
+5.5 Problem Solving: Flowcharts   203
+
+5.6T Problem Solving: Selecting Test Cases   206
+
+5.7 Boolean Variables and Operators   209
+
+5.8 Application: Input Validation   214 
+
+Chapter 6: Loops
+
+6.1 The while Loop   238
+
+6.2 Problem Solving: Hand-Tracing   245
+
+6.3 The for Loop   250
+
+6.4 The do Loop   258
+
+6.5 Application: Processing Sentinel Values   259
+
+6.6 Problem Solving: Storyboards   265
+
+6.7 Common Loop Algorithms   268
+
+6.8 Nested Loops   275
+
+6.9 Application: Random Numbers and Simulations   279
+
+6.10T Using a Debugger   282 
+
+Chapter 7: Arrays and Array Lists
+
+7.1 Arrays   308
+
+7.2 The Enhanced for Loop   317
+
+7.3 Common Array Algorithms   318
+
+7.4 Problem Solving: Adapting Algorithms   327
+
+7.5 Problem Solving: Discovering Algorithms by Manipulating Physical Objects   332
+
+7.6 Two-Dimensional Arrays   336
+
+7.7 Array Lists   343
+
+7.8T Regression Testing   352 
+
+Chapter 8: Designing Classes
+
+8.1  Discovering Classes   376
+
+8.2 Designing Good Methods   377
+
+8.3 Problem Solving: Patterns for Object Data   386
+
+8.4 Static Variables and Methods   391
+
+8.5 Problem Solving: Solve a Simpler Problem First   395
+
+8.6 Packages   400
+
+8.7T Unit Test Frameworks   405 
+
+Chapter 9: Inheritance
+
+9.1 Inheritance Hierarchies   424
+
+9.2 Implementing Subclasses   428
+
+9.3 Overriding Methods   433
+
+9.4 Polymorphism   439
+
+9.5 Object: The Cosmic Superclass   450 
+
+Chapter 10: Interfaces
+
+10.1 Using Interfaces for Algorithm Reuse   466
+
+10.2 Working with Interface Types   475
+
+10.3 The Comparable Interface   477
+
+10.4 Using Interfaces for Callbacks   482
+
+10.5 Inner Classes   487
+
+10.6T Mock Objects   489
+
+10.7G Event Handling    490
+
+10.8G Building Applications with Buttons   496
+
+10.9G Processing Timer Events   499
+
+10.10G Mouse Events   502 
+
+Chapter 11: Input/Output and Exception Handling
+
+11.1 Reading and Writing Text Files   520
+
+11.2 Text Input and Output   525
+
+11.3 Command-Line Arguments   533
+
+11.4 Exception Handling   540
+
+11.5 Application: Handling Input Errors   549 
+
+Chapter 12: Object-Oriented Design (Web Only)
+
+12.1 Classes and Their Responsibilities   566
+
+12.2  Relationships Between Classes   569
+
+12.3 Application: Printing an Invoice   575 
+
+Chapter 13: Recursion (Web Only)
+
+13.1 Triangle Numbers   594
+
+13.2 Recursive Helper Methods   602
+
+13.3 The Efficiency of Recursion   604
+
+13.4 Permutations   609
+
+13.5 Mutual Recursion   614
+
+13.6 Backtracking   620 
+
+Chapter 14: Sorting and Searching (Web Only)
+
+14.1 Selection Sort   636
+
+14.2 Profiling the Selection Sort Algorithm   639
+
+14.3 Analyzing the Performance of the Selection Sort Algorithm   642
+
+14.4 Merge Sort   647
+
+14.5 Analyzing the Merge Sort Algorithm   650
+
+14.6 Searching   654
+
+14.7 Problem Solving: Estimating the Running Time of an Algorithm   659
+
+14.8 Sorting and Searching in the Java Library   664 
+
+Chapter 15: The Java Collections Framework (Web Only)
+
+15.1 An Overview of the Collections Framework   678
+
+15.2 Linked Lists   681
+
+15.3 Sets   687
+
+15.4 Maps   692
+
+15.5 Stacks, Queues, and Priority Queues   698
+
+15.6 Stack and Queue Applications   701 
+
+Appendix A  THE BASIC LATIN AND LATIN-1 SUBSETS OF UNICODE A-1
+
+Appendix B  JAVA OPERATOR SUMMARY A-5
+
+Appendix C  JAVA RESERVED WORD SUMMARY A-7
+
+Appendix D  THE JAVA LIBRARY A-9
+
+Appendix E  JAVA SYNTAX SUMMARY A-53
+
+Appendix F  TOOL SUMMARY A-64
+
+Appendix G  NUMBER SYSTEMS A-68
+
+Appendix H  UML SUMMARY A-76
+
+Appendix I  JAVA LANGUAGE CODING GUIDELINES A-79
+
+Appendix J  HTML SUMMARY A-86
+
+GLOSSARY
+
+INDEX
+
+CREDITS
+
+NEW TO THIS EDITION
+ Updated for the Diamond Syntax and Java 8 software release. A greater emphasis on problem solving with practical step-by-step illustrations of techniques that can help students devise and evaluate solutions to programming problems.
+A new visual approach that motivates the reader and eases navigation including photographs, step-by-step figures, syntax boxes, and example tables. New exercises from science and business engage students with real world applications of Java in different industries.
+An early introduction to object-oriented programming techniques, beginning in Chapter 2, provides extensive practice with objects and classes before students are asked to write their own classes. Horstmann’s clear explanations follow the beginner’s thinking process, providing examples and analogies, and anticipating where they may get confused or make mistakes.
+The Testing Track identifies and emphasizes the test-driven approach to programming. The Graphics Track integrates optional graphics material into the chapters where it best fits. Self-Check Questions test understanding, not memorization, and can be used as springboards to a deeper discussion of key concepts in each section.
+Over one hundred programming problems are available in Code Check with instructive feedback and automated grading for students.
+
+This is a three-hole punched, unbound edition. 
+
+ 
+
+ 
+
+FEATURES
+An early introduction to object-oriented programming techniques, beginning in Chapter 2, provides extensive practice with objects and classes before students are asked to write their own classes.
+Horstmann’s clear explanations follow the beginner’s thinking process, providing examples and analogies, and anticipating where they may get confused.
+Self-Check Questions test understanding, not memorization, and can be used as springboards to a deeper discussion of key concepts in each section.
+Binder-Ready Format saves students money.
+
